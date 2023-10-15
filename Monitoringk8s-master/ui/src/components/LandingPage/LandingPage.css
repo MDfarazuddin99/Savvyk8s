@@ -1,0 +1,34 @@
+.landingContent {
+  /* margin-top: 60px; */
+  /* text-align: center; */
+  font-weight: bold;
+  font-size: 48px;
+  width: 1440px;
+  height:480px;
+  background-image: url("../../assets/images/landing-2.png");
+
+}
+.afterHeader {
+  background-color: rgb(5, 5, 87);
+  height: 280px;
+}
+/* .landing{
+  height:880px;
+} */
+.landingContent h1 {
+  font-size: 48px;
+  font-weight: bold;
+}
+
+.landingContent h2 {
+  font-size: 18px;
+  color: grey;
+}
+
+.content {
+  font-size: 40px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.landingImage {}
